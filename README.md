@@ -5,7 +5,7 @@
 
 ## Features
 - Browse experiences by category, location, and date.
-- Detailed experience pages with descriptions, photos, and reviews
+- Detailed experience pages with descriptions, photos, and reviews.
 - Responsive design for optimal viewing on different devices
 
 ## Requirements
