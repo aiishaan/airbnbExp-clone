@@ -43,7 +43,7 @@
     ```
 
 ## Usage
-The **AirBnB Experiences Clone** allows users to explore various experiences offered by hosts. Users can filter experiences based on their preferences, view detailed information, and proceed to book their chosen experiences
+The **AirBnB Experiences Clone** allows users to explore various experiences offered by hosts. Users can filter experiences based on their preferences, view detailed information, and proceed to book their chosen experiences.
 
 ## Project Structure
 - **src/components**: Contains reusable UI components.
