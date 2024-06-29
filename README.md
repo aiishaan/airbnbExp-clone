@@ -6,7 +6,7 @@
 ## Features
 - Browse experiences by category, location, and date.
 - Detailed experience pages with descriptions, photos, and reviews.
-- Responsive design for optimal viewing on different devices
+- Responsive design for optimal viewing on different devices.
 
 ## Requirements
 - Node.js (version 14 or higher)
