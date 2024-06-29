@@ -4,7 +4,7 @@
 **AirBnB Experiences Clone** is a web application built with React that mimics the functionality of the AirBnB Experiences feature. Users can browse and book various experiences hosted by local experts, providing an immersive and personalized travel experience
 
 ## Features
-- Browse experiences by category, location, and date.
+- Browse experiences by category, location, and date
 - Detailed experience pages with descriptions, photos, and reviews
 - Responsive design for optimal viewing on different devices
 
